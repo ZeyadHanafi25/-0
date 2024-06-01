@@ -1,17 +1,18 @@
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    
+    text-align: center;
     width: 200px;
 }
 
     p {
         font-family: Arial, sans-serif;
         font-size: 20px;
+
 }
 h3{
 
         font-size: 35px;
+
 
       
 }
@@ -27,10 +28,34 @@ h4{
 }
 #imgcc{
         display: block;
-        margin-left: auto;
-        margin-right: auto;
+        text-align: center;
         width: 1000px;
 }
 #imgao{
         font-size: 30px;
+}
+hr{
+        width: 50%;
+        font-size: 50px;
+}
+
+#img_top{
+        text-align: center;
+        width:  800PX;
+}
+#ssimg{
+        width: 250px;
+}
+#caleak_atchan{
+        text-align: center;
+        width: 200px;
+}
+#codeat{
+        width: 100px;
+}
+#ssd{
+        color: green;
+}
+#ssf{
+        color: red;
 }
